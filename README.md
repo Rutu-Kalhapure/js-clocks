@@ -53,7 +53,7 @@ clock/
   - cd clock/digital-clock/style1
   Open index.html in your web browser to view the digital clock.
 
-  #Analog Clock
+  # Analog Clock
   Navigate to the analog-clock folder:
 
   bash
