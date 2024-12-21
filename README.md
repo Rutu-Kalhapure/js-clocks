@@ -64,3 +64,12 @@ clock/
   bash
   - cd clock/analog-clock/style1
   Open index.html in your web browser to view the analog clock.
+
+# Screenshots
+
+## Analog Clocks
+### style 1
+![Digital Clock Screenshot](assets/DigitalClock-style1.jpeg)
+
+
+## Digital Clocks
