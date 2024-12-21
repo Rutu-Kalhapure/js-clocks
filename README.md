@@ -16,6 +16,10 @@ The Analog Clock is a classic representation of time, featuring hour, minute, an
 
 ```plaintext
 clock/
+├── assets/
+│   ├── digital-clock-screenshot1.png
+│   ├── analog-clock-screenshot1.png
+│   └── ...
 ├── digital-clock/
 │   ├── style1/
 │   │   ├── index.html
@@ -36,6 +40,7 @@ clock/
 │   │   ├── style.css
 │   │   └── script.js
 │   └── ...
+
 
 ```
 ## Features

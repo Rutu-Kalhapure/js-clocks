@@ -1,4 +1,3 @@
-
 # Analog Clock Collection
 
 This repository contains various styles of analog clocks, implemented using HTML, CSS, and JavaScript. Each style is designed to be responsive and visually appealing, demonstrating different techniques and design choices for creating analog clocks.
@@ -16,3 +15,4 @@ analog-clock/
 │   ├── style.css
 │   └── script.js
 └── ...
+```

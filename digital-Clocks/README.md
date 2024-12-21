@@ -16,3 +16,4 @@ digital-clock/
 │   └── script.js
 └── ...
 
+```
