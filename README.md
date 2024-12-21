@@ -14,6 +14,13 @@ The Analog Clock is a classic representation of time, featuring hour, minute, an
 
 File Structure 
 
+# Clock Collection
+
+This repository features a collection of clock projects, categorized into **Digital Clock** and **Analog Clock** types. Each category contains multiple styles demonstrating various implementations using HTML, CSS, and JavaScript.
+
+## Folder Structure
+
+```plaintext
 clock/
 ├── digital-clock/
 │   ├── style1/
@@ -35,3 +42,4 @@ clock/
 │   │   ├── style.css
 │   │   └── script.js
 │   └── ...
+
