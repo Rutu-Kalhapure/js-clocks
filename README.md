@@ -37,3 +37,25 @@ clock/
 │   │   └── script.js
 │   └── ...
 
+```
+## Features
+1. Responsive Design: Adapts to different screen sizes for optimal viewing.
+2. Live Time Update: Continuously updates every second to display the current time.
+3. Customizable Colors: Easily change the colors to match your preferences.
+4. Responsive Layout: Ensures the clock looks great on any device.
+
+## Usage
+
+  # Digital Clock
+  Navigate to the digital-clock folder:
+
+  bash
+  - cd clock/digital-clock/style1
+  Open index.html in your web browser to view the digital clock.
+
+  #Analog Clock
+  Navigate to the analog-clock folder:
+
+  bash
+  - cd clock/analog-clock/style1
+  Open index.html in your web browser to view the analog clock.
