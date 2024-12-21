@@ -1,4 +1,4 @@
-# clocks
+### Clocks
 This repository features two types of clocks: Digital Clock and Analog Clock, each in its own folder.  
 
 digital-clock/: A sleek, responsive digital clock.  
@@ -12,7 +12,7 @@ The Digital Clock is a sleek and modern time display built using HTML, CSS, and 
 ## Analog Clock
 The Analog Clock is a classic representation of time, featuring hour, minute, and second hands. Built with HTML, CSS, and JavaScript, this clock combines elegance with functionality. It simulates a traditional clock with smooth transitions and accurate timekeeping.
 
-## Folder Structure
+### Folder Structure
 
 ```plaintext
 clock/
