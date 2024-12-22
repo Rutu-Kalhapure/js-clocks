@@ -35,3 +35,7 @@ digital-clock/
 ### Style 4
 
 ![Digital Clock Screenshot](../assets/DigitalClock-style4.jpeg)
+
+### Style 5
+
+![Digital Clock Screenshot](../assets/DigitalClock-style5.jpeg)
