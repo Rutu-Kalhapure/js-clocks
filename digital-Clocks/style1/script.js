@@ -1,4 +1,3 @@
-// let i = 0;
 function startTime() {
   const today = new Date();
   let hrs = today.getHours();
