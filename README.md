@@ -87,3 +87,7 @@ bash
 ### Style 2
 
 ![Digital Clock Screenshot](/assets/DigitalClock-style2.jpeg)
+
+### Style 3
+
+![Digital Clock Screenshot](../../assets/DigitalClock-style3.jpeg)
