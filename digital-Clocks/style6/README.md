@@ -1,5 +1,3 @@
 ### Style 6
 
-<video width="640" height="480" controls>
-  <source src="../../assets/DigitalClock-style6.mp4" type="video/mp4">
-</video>
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](../../assets/DigitalClock-style6.mp4)
