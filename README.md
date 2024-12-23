@@ -102,4 +102,4 @@ bash
 
 ### Style 6
 
-[![Demo Video](/assets/DigitalClock-style6.mp4)]
+[![Demo Video](/assets/DigitalClock-style6.gif)]
