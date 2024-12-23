@@ -39,3 +39,7 @@ digital-clock/
 ### Style 5
 
 ![Digital Clock Screenshot](../assets/DigitalClock-style5.jpeg)
+
+### Style 6
+
+[![Demo Video](../assets/DigitalClock-style6.mp4)]
