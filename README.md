@@ -78,6 +78,10 @@ bash
 
 ## Analog Clocks
 
+### Style 1
+
+![Digital Clock Screenshot](/assets/AnalogClock-style1.jpeg)
+
 ## Digital Clocks
 
 ### Style 1

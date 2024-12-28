@@ -16,3 +16,9 @@ analog-clock/
 │   └── script.js
 └── ...
 ```
+
+## Screenshots
+
+### Style 1
+
+![Digital Clock Screenshot](../assets/AnalogClock-style1.jpeg)
